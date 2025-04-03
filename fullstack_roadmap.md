@@ -1,4 +1,4 @@
-
+ytdtuyf5fyguygtdtu
 ### Detailed Weekly Roadmap for Full-Stack Development (6 Months)  
 
 | **Week** | **Focus Area**                          | **Goals and Skills**                                                                                                                                           | **Resources/Tasks/Projects**                                                                                                      |
